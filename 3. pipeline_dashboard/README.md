@@ -13,4 +13,13 @@
 
 `pandas, sqlalchemy, dash, plotly`
 
-Выводы сопровождены презентацией.
+### Файлы:
+
+pipeline - сам пайплайн
+
+dash_zen_last - дашборд
+
+readme_1 - пошаговая инструкция по запуску
+
+requirements - требования к ПО
+
