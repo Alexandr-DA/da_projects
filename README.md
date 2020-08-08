@@ -21,3 +21,4 @@
 ## 6. SQLAlchemy_example
 
 Учебный проект. Примеры SQL запросов.
+[contributor guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md)
