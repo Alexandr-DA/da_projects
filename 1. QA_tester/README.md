@@ -12,4 +12,4 @@
 
 ### Инструменты:
 
-- jupyter, pandas, seaborn, matplotlib, plotly, регулярные выражения, стемминг 
+'jupyter, pandas, seaborn, matplotlib, plotly, регулярные выражения, стемминг'
