@@ -2,7 +2,7 @@
 ## Александр Филатов
 # Примеры реальных и учебных работ
 
-## 1. QA_tester. https://github.com/Alexandr-DA/da_projects/tree/master/1.%20QA_tester
+## 1. [QA_tester.] (https://github.com/Alexandr-DA/da_projects/tree/master/1.%20QA_tester)
 Реальный проект. Анализ вакансий ручных тестировщиков для QA–факультета.
 
 ## 2. Ценообразование.
@@ -21,4 +21,4 @@
 ## 6. SQLAlchemy_example
 
 Учебный проект. Примеры SQL запросов.
-[contributor guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md)
+
