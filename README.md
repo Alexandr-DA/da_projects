@@ -1,5 +1,4 @@
 
-## Александр Филатов
 # Примеры реальных и учебных работ
 
 ### 1. [QA_tester.](https://github.com/Alexandr-DA/da_projects/tree/master/1.%20QA_tester)
