@@ -1,5 +1,5 @@
 
-# Примеры реальных и учебных работ
+# Работы
 
 ### 1. [QA_tester.](https://github.com/Alexandr-DA/da_projects/tree/master/1.%20QA_tester)
 Реальный проект. Анализ вакансий ручных тестировщиков для QA–факультета.
