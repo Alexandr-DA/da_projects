@@ -8,17 +8,7 @@ import base64
 
 st.title('Московское долголетие')
 
-st.markdown(
-    """
-<style>
-.sidebar .sidebar-content {
-    background-image: linear-gradient(#2e7bcf,#2e7bcf);
-    color: white;
-}
-</style>
-""",
-    unsafe_allow_html=True,
-)
+st.markdown('<style>body{background-color: Blue;}</style>',unsafe_allow_html=True)
 
 multiple_files = st.file_uploader(
     "Прикрепите файлы csv",
